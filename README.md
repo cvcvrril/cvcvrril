@@ -44,4 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cvcvrril&show_icons=true&theme=tokyonight"/>
   <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cvcvrril&theme=tokyonight">
 </p>
+<br>
 </details>
+
+<p align= "center"><img alt="separador" src="https://github.com/cvcvrril/cvcvrril/blob/main/images/c90af6c6e50a94dacd4a1e45201270ca.jpg"></p>
+
