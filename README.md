@@ -2,7 +2,7 @@
 
 <p align= "center"><img alt="separador" src="https://github.com/cvcvrril/cvcvrril/blob/main/images/9adf72d91aeb56c6f10cbce932c4fb2d.jpg"></p>
 
-<h2 align="center">My skills</h2>
+<h3 align="center">My skills</h2>
 
 <p align = "center">Tools:</p>
 
@@ -19,8 +19,6 @@
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
 </p>
 
-* * *
-
 <p align = "center">Languages:</p>
 
 <p align = "center">
@@ -31,4 +29,12 @@
 <p align = "center">
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+</p>
+
+* * *
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cvcvrril&show_icons=true&theme=tokyonight"/>
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cvcvrril&theme=tokyonight">
 </p>
