@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Inés Martínez</h1>
 <p align= "center">Backend (junior) developer, passionate programmer, sometimes self taught, working on self projects</p>
+<p align= "center">Future game developer or computer forensic</p>
 <p align = "center">
 <a href="https://github.com/cvcvrril?tab=followers"><img alt="GitHub followers" src= "https://img.shields.io/github/followers/cvcvrril.svg?style=social&label=Follow&maxAge=2592000"></a>
   
