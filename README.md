@@ -2,4 +2,4 @@
 <p>I'm a passionate backend developer, currently interested in Cybersecurity.</p>
 <br>
 <p>You can find me on:</p>
-<li><a href='https://www.linkedin.com/in/ines-martinez-rodriguez' target= '_blank'>Linkedin</a> 💼</li> 
+<li><a href='https://www.linkedin.com/in/ines-martinez-rodriguez' target= "_blank">Linkedin</a> 💼</li> 
