@@ -23,3 +23,10 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&color=orange&logoColor=white)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=black&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=blue&logoColor=white)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cvcvrril&show_icons=true&theme=synthwave"/>
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=cvcvrril&theme=synthwave">
+</p>
+<br>
