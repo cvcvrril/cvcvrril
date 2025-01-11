@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=cvcvrril&color=red)
 
 ## 💫 About Me:
-🔭 Currently learning something about cybersecurity<br>🐱‍💻 Passionate backend developer from Spain<br>🌱 Always finding something new to investigate<br>
+🔭 Currently learning something about cybersecurity<br>🐱‍💻 Passionate backend developer from Spain<br>🌱 Always finding something new to investigate<br> 🚀Cybersec specialist in making
 
 
 ### 🌐 Socials:
