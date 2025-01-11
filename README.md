@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inés Martínez</h1>
 
+![Profile banner](https://github.com/cvcvrril/cvcvrril/blob/main/githubbanner.png)
+
 ![Profile views](https://komarev.com/ghpvc/?username=cvcvrril&color=red)
 
 ## 💫 About Me:
