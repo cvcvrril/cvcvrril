@@ -18,10 +18,17 @@
 
 ---
 
+## 🛠 Working on:
+[ 👩‍💻 Web scraper made in Python to find good phone offers](https://github.com/cvcvrril/scrap-movil)
+
+---
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cvcvrril&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cvcvrril&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cvcvrril&theme=rose_pine&hide_border=false)
 
-
 ---
+
+
+
