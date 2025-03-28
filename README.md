@@ -10,6 +10,8 @@
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_💼-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-martinez-rodriguez/)
+[![Webpage](https://img.shields.io/badge/Webpage_🌐-%230077B5.svg?logo=linkedin&logoColor=white)](https://cvcvrril.github.io/)
+[![Blog](https://img.shields.io/badge/Blog_✍-%230077B5.svg?logo=linkedin&logoColor=white)](https://cvcvrril.gitbook.io/blog)
 
 ---
 
