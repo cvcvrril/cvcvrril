@@ -5,10 +5,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=cvcvrril&color=red)
 
 ## 💫 About Me:
-🔭 Currently learning something about cybersecurity<br>
-🐱‍💻 Passionate system admin from Spain<br>
+🔭 Currently preparing for the eJPT !! :) <br>
+🐱‍💻 Passionate ofensive tech from Spain<br>
 🌱 Always finding something new to investigate<br>
-🚀Pentester in making, trust in the process
+🚀Pentester Junior, wip made
 
 
 ### 🌐 Socials:
